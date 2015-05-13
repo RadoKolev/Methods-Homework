@@ -1,0 +1,5 @@
+C:\Users\XANKO\Desktop\Methods-Homework\02.LastDigitOfNumber\bin\Debug\02.LastDigitOfNumber.exe
+C:\Users\XANKO\Desktop\Methods-Homework\02.LastDigitOfNumber\bin\Debug\02.LastDigitOfNumber.pdb
+C:\Users\XANKO\Desktop\Methods-Homework\02.LastDigitOfNumber\obj\Debug\02.LastDigitOfNumber.csprojResolveAssemblyReference.cache
+C:\Users\XANKO\Desktop\Methods-Homework\02.LastDigitOfNumber\obj\Debug\02.LastDigitOfNumber.exe
+C:\Users\XANKO\Desktop\Methods-Homework\02.LastDigitOfNumber\obj\Debug\02.LastDigitOfNumber.pdb

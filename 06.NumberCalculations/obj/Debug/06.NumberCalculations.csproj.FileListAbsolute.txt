@@ -1,0 +1,5 @@
+C:\Users\XANKO\Desktop\Methods-Homework\06.NumberCalculations\obj\Debug\06.NumberCalculations.exe
+C:\Users\XANKO\Desktop\Methods-Homework\06.NumberCalculations\obj\Debug\06.NumberCalculations.pdb
+C:\Users\XANKO\Desktop\Methods-Homework\06.NumberCalculations\bin\Debug\06.NumberCalculations.exe
+C:\Users\XANKO\Desktop\Methods-Homework\06.NumberCalculations\bin\Debug\06.NumberCalculations.pdb
+C:\Users\XANKO\Desktop\Methods-Homework\06.NumberCalculations\obj\Debug\06.NumberCalculations.csprojResolveAssemblyReference.cache
